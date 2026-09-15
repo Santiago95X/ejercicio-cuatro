@@ -47,7 +47,8 @@ body {
 .hero-image {
   width: 60%;
   height: 65vh;
-  padding: 2rem;
+  padding: 2.5rem 2rem 2.5rem 3rem;
+}
 }
 
 .hero-image img {
